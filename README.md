@@ -7,11 +7,6 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Willianpimenta&bg_color=000000&color=2a9d8f&line=2a9d8f&point=8ecae6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Willianpimenta&bg_color=0d1117&color=2a9d8f&line=2a9d8f&point=8ecae6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 <div align="center"> 
 <a href="[https://www.instagram.com/willianrodriguessk/?hl=pt](https://www.instagram.com/willianrodriguespi/?hl=pt)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.twitch.tv/pimentawill" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
