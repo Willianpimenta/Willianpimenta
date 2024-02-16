@@ -4,11 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Willianpimenta&bg_color=0d101c&color=2997c7&line=278db9&point=3e3f41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Willianpimenta&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Willianpimenta&show_icons=true&count_private=true&hide_border=true&title_color=278DB9&icon_color=278db9&text_color=c9d1d9&bg_color=0d1117" alt="Willian pimenta  github stats" /> 
