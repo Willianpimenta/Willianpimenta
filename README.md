@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Open to new opportunities<br>⚡ Always looking to improve
+
 
 
 ## 🌐 Socials:
